@@ -1,4 +1,4 @@
-module read-write-csv
+module github.com/RahulSaroha47/Read-Write-Csv
 
 go 1.17
 
